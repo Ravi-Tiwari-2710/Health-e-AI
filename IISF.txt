@@ -1,0 +1,16 @@
+Brief Write-up of the model/project incorporating Materials & Methods used, Innovation, Results/ Outcome/ Findings, how it will benefit society in short, medium and long term:
+
+The basic objective of the idea is to track patient health status by measuring the parameters like body temperature, heart rate (BPM), blood oxygen levels (Sp02) through a wearable device and send it to a cloud platform so that it can be monitor from any device like Smartphone, PC, Laptop, Smart TV that support browsing capabilities
+Additionally it have a panic alarm that will alert and notifies with location in emergency situation so that ambulance can be arrived at time and treatment can be provided to the patient.
+It also monitors the temperature & humidity of patient’s surroundings.
+Finally a web application is provided to doctor to analyse the health condition of patient through AI models which predict diseases like Cancer, Diabetes, Heart, liver, Kidney, Malaria and  pneumonia with over 95% accuracy.
+
+BENEFITS:-
+It will remove the dependencies on the medical staff for testing.
+It will help the poor and helpless people with the normal medical checkup.
+It help people avoid paying huge amount to the doctors unnecessarily like bed charge and other medical facilities.
+It can predict the health of patient using artificial intelligence accurately.
+It can monitor the health of patient and call the ambulance whenever require so that live can saved.
+
+
+
